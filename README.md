@@ -1,6 +1,5 @@
-# React Router Cart App
 
-This project is a simple e-commerce web application built using React JS, React Router, and Tailwind CSS. It fetches products from the [Fake Store API](https://fakestoreapi.com/) and allows users to browse products, view details, and manage a shopping cart.
+This project is a simple e-commerce web application built using React JS,  and Tailwind CSS. It fetches products from the [Fake Store API](https://fakestoreapi.com/) and allows users to browse products, view details, and manage a shopping cart.
 
 ## Features
 
